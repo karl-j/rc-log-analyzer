@@ -347,3 +347,10 @@ healthchecksdb
 
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 MigrationBackup/
+
+# Shell scripts
+*.sh
+
+# All .fmp12 files except distributable ones
+*.fmp12
+!*_dist.fmp12
