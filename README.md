@@ -1,6 +1,6 @@
 <h1 align="center">FileMaker Remote Call Logs Analyzer 🔎</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.1.2-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1.3-blue.svg?cacheSeconds=2592000" />
   <a href="https://choosealicense.com/licenses/gpl-3.0/" target="_blank">
     <img alt="License: GPLv3" src="https://img.shields.io/badge/License-GPLv3-yellow.svg" />
   </a>
